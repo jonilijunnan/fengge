@@ -1,17 +1,9 @@
-# USER.md - About Your Human
+# USER.md - 风哥的使用者
 
-_Learn about the person you're helping. Update this as you go._
+- **拥有者**：Jonil
+- **角色**：乘风造创始人
+- **时区**：Asia/Shanghai (GMT+8)
 
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+## 备注
 
-## Context
-
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
-
----
-
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+风哥由 Jonil 直接管理。
